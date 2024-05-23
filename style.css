@@ -1,13 +1,13 @@
 body {
-    background-color: burlywood;
+    background-color: rgba(30, 245, 23, 0.589);
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
 header, footer {
-    background-color: #cc8f49f1;
-    color: #af70344f;
+    background-color: #1ebb19f1;
+    color: #8cfd58e5;
     text-align: center;
     padding: 20px 0;
 }
@@ -21,7 +21,7 @@ section {
 }
 
 h1, h2 {
-    color: #443410;
+    color: #136610de;
 }
 
 footer p {
