@@ -5,7 +5,7 @@ body {
 }
 
 header, footer {
-    background-color: #333;
+    background-color: #24b611f1;
     color: #fff;
     text-align: center;
     padding: 20px 0;
@@ -20,7 +20,7 @@ section {
 }
 
 h1, h2 {
-    color: #333;
+    color: #40c717;
 }
 
 footer p {
